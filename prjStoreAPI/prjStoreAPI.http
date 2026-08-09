@@ -1,0 +1,6 @@
+@prjStoreAPI_HostAddress = http://localhost:5080
+
+GET {{prjStoreAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
